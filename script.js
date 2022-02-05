@@ -133,5 +133,5 @@ function restartQuiz() {
   q4a1.disabled = false;
   q4a2.disabled = false;
   q5a1.disabled = false;
-  q2a2.disabled = false;
+  q5a2.disabled = false;
 }
